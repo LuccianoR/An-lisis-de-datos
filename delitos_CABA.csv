@@ -1,0 +1,889 @@
+provincia_nombre;anio;codigo_delito_snic_nombre;cantidad_hechos;cantidad_victimas;cantidad_victimas_masc;cantidad_victimas_fem;cantidad_victimas_sd;tasa_hechos;tasa_victimas;tasa_victimas_masc;tasa_victimas_fem
+Ciudad Aut髇oma de Buenos Aires;2000;Homicidios dolosos;149;158;121;37;0;4,9750013;5,2755051;8,8257008;2,2783601
+Ciudad Aut髇oma de Buenos Aires;2000;Homicidios dolosos en grado de tentativa;54;58;40;18;0;1,8030207;1,9365778;2,9175868;1,1083914
+Ciudad Aut髇oma de Buenos Aires;2000;Muertes en accidentes viales;121;126;97;29;0;4,040102;4,2070484;7,0751481;1,7857418
+Ciudad Aut髇oma de Buenos Aires;2000;Homicidios culposos por otros hechos;35;36;20;13;3;1,1686245;1,2020137;1,4587934;0,80050492
+Ciudad Aut髇oma de Buenos Aires;2000;Lesiones dolosas;13154;13732;8105;5485;142;439,20248;458,50146;591,17603;337,7515
+Ciudad Aut髇oma de Buenos Aires;2000;Lesiones culposas en Accidentes Viales;7890;8486;5433;2998;55;263,44135;283,34137;396,28125;184,60875
+Ciudad Aut髇oma de Buenos Aires;2000;Lesiones culposas por otros hechos;1164;1244;725;480;39;38,865112;41,536255;52,881264;29,557106
+Ciudad Aut髇oma de Buenos Aires;2000;Otros delitos contra las personas;1784;1881;928;856;97;59,56646;62,805222;67,688019;52,710171
+Ciudad Aut髇oma de Buenos Aires;2000;Delitos contra el honor;0;0;0;0;0;0;0;0;0
+Ciudad Aut髇oma de Buenos Aires;2000;Abusos sexuales con acceso carnal (violaciones);197;206;25;173;8;6,5776863;6,87819;1,8234918;10,652873
+Ciudad Aut髇oma de Buenos Aires;2000;Otros delitos contra la integridad sexual;409;440;83;343;14;13,656212;14,691279;6,0539927;21,121016
+Ciudad Aut髇oma de Buenos Aires;2000;Delitos contra el estado civil;1;;;;;0,03338927;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Amenazas;11034;;;;;368,41724;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Otros delitos contra la libertad;3684;3684;0;0;3684;123,00607;123,00607;0;0
+Ciudad Aut髇oma de Buenos Aires;2000;Robos (excluye los agravados por el resultado de lesiones y/o muertes);68937;;;;;2301,7561;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);2620;;;;;87,479889;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Robos agravados por el resultado de lesiones y/o muertes ;37;;;;;1,2354031;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Tentativas de robo agravado por el resultado de lesiones y/o muertes;4;;;;;0,13355708;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Hurtos;64018;;;;;2137,5144;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Tentativas de hurto;725;;;;;24,207222;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Otros delitos contra la propiedad;7502;;;;;250,48631;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Delitos contra la seguridad p煤blica;376;;;;;12,554366;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Delitos contra el orden p煤blico;336;;;;;11,218795;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Delitos contra la seguridad de la naci贸n;1;;;;;0,03338927;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Delitos contra los poderes p煤blicos y el orden constitucional;11;;;;;0,36728197;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Delitos contra la administraci贸n p煤blica;2130;;;;;71,119148;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Delitos contra la fe p煤blica;1047;;;;;34,958569;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Ley 23,737 (estupefacientes);7613;;;;;254,19252;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Otros delitos previstos en leyes especiales;4554;;;;;152,05475;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Contravenciones;73;;;;;2,4374168;;;
+Ciudad Aut髇oma de Buenos Aires;2000;Suicidios (consumados);356;356;0;0;356;12,550616;12,550616;0;0
+Ciudad Aut髇oma de Buenos Aires;2001;Homicidios dolosos;152;159;131;28;0;5,0744524;5,3081446;9,5490999;1,7246264
+Ciudad Aut髇oma de Buenos Aires;2001;Homicidios dolosos en grado de tentativa;45;55;37;17;1;1,502305;1,8361506;2,6970742;1,0470946
+Ciudad Aut髇oma de Buenos Aires;2001;Muertes en accidentes viales;109;112;82;30;0;3,6389167;3,7390704;5,9772992;1,8478141
+Ciudad Aut髇oma de Buenos Aires;2001;Homicidios culposos por otros hechos;18;20;9;11;0;0,60092199;0,66769111;0,65604508;0,67753184
+Ciudad Aut髇oma de Buenos Aires;2001;Lesiones dolosas;12990;14946;8871;6071;4;433,66537;498,96558;646,64172;373,93597
+Ciudad Aut髇oma de Buenos Aires;2001;Lesiones culposas en Accidentes Viales;7422;8441;5430;3011;0;247,78018;281,79904;395,81384;185,45894
+Ciudad Aut髇oma de Buenos Aires;2001;Lesiones culposas por otros hechos;794;861;483;377;1;26,507338;28,744102;35,207752;23,220863
+Ciudad Aut髇oma de Buenos Aires;2001;Otros delitos contra las personas;1803;2101;1117;981;3;60,192356;70,140953;81,422478;60,423519
+Ciudad Aut髇oma de Buenos Aires;2001;Delitos contra el honor;4;5;3;2;0;0,13353823;0,16692278;0,21868168;0,1231876
+Ciudad Aut髇oma de Buenos Aires;2001;Abusos sexuales con acceso carnal (violaciones);200;231;26;204;1;6,6769114;7,7118325;1,8952413;12,565135
+Ciudad Aut髇oma de Buenos Aires;2001;Otros delitos contra la integridad sexual;454;514;81;421;12;15,156589;17,159662;5,9044056;25,93099
+Ciudad Aut髇oma de Buenos Aires;2001;Delitos contra el estado civil;1;;;;;0,033384558;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Amenazas;11397;;;;;380,4838;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Otros delitos contra la libertad;3880;3880;0;0;3880;129,53207;129,53207;0;0
+Ciudad Aut髇oma de Buenos Aires;2001;Robos (excluye los agravados por el resultado de lesiones y/o muertes);69474;;;;;2319,3586;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);3183;;;;;106,26305;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Robos agravados por el resultado de lesiones y/o muertes ;173;;;;;5,7755284;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Tentativas de robo agravado por el resultado de lesiones y/o muertes;38;;;;;1,2686131;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Hurtos;61671;;;;;2058,8589;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Tentativas de hurto;833;;;;;27,809336;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Otros delitos contra la propiedad;7412;;;;;247,44633;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Delitos contra la seguridad p煤blica;677;;;;;22,601345;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Delitos contra el orden p煤blico;2612;;;;;87,200462;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Delitos contra la seguridad de la naci贸n;2;;;;;0,066769116;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Delitos contra los poderes p煤blicos y el orden constitucional;11;;;;;0,36723012;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Delitos contra la administraci贸n p煤blica;2240;;;;;74,781403;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Delitos contra la fe p煤blica;807;;;;;26,941338;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Ley 23,737 (estupefacientes);9408;;;;;314,08191;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Otros delitos previstos en leyes especiales;4273;;;;;142,65221;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Contravenciones;35;;;;;1,1684594;;;
+Ciudad Aut髇oma de Buenos Aires;2001;Suicidios (consumados);317;317;0;0;317;11,23502;11,23502;0;0
+Ciudad Aut髇oma de Buenos Aires;2002;Homicidios dolosos;171;179;148;31;0;5,7017961;5,9685469;10,759239;1,909489
+Ciudad Aut髇oma de Buenos Aires;2002;Homicidios dolosos en grado de tentativa;36;48;36;11;1;1,2003781;1,6005042;2,6171122;0,67756063
+Ciudad Aut髇oma de Buenos Aires;2002;Muertes en accidentes viales;105;106;69;37;0;3,5011029;3,5344467;5,0161314;2,2790675
+Ciudad Aut髇oma de Buenos Aires;2002;Homicidios culposos por otros hechos;18;19;13;4;2;0,60018903;0,63353288;0,9450683;0,24638568
+Ciudad Aut髇oma de Buenos Aires;2002;Lesiones dolosas;13773;14306;8145;6160;1;459,24466;477,01694;592,12164;379,43393
+Ciudad Aut髇oma de Buenos Aires;2002;Lesiones culposas en Accidentes Viales;7076;8139;5268;2871;0;235,94099;271,3855;382,97073;176,84332
+Ciudad Aut髇oma de Buenos Aires;2002;Lesiones culposas por otros hechos;742;813;416;395;2;24,741127;27,10854;30,242186;24,330585
+Ciudad Aut髇oma de Buenos Aires;2002;Otros delitos contra las personas;1611;1689;853;833;3;53,716919;56,317741;62,011017;51,309818
+Ciudad Aut髇oma de Buenos Aires;2002;Delitos contra el honor;0;0;0;0;0;0;0;0;0
+Ciudad Aut髇oma de Buenos Aires;2002;Abusos sexuales con acceso carnal (violaciones);202;204;20;184;0;6,735455;6,8021426;1,4539512;11,333741
+Ciudad Aut髇oma de Buenos Aires;2002;Otros delitos contra la integridad sexual;396;418;62;356;0;13,20416;13,937724;4,5072489;21,928326
+Ciudad Aut髇oma de Buenos Aires;2002;Delitos contra el estado civil;1;;;;;0,033343837;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Amenazas;12491;;;;;416,49786;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Otros delitos contra la libertad;3048;3048;0;0;3048;101,63201;101,63201;0;0
+Ciudad Aut髇oma de Buenos Aires;2002;Robos (excluye los agravados por el resultado de lesiones y/o muertes);71592;;;;;2387,1519;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);3565;;;;;118,87078;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Robos agravados por el resultado de lesiones y/o muertes ;105;;;;;3,5011029;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Tentativas de robo agravado por el resultado de lesiones y/o muertes;21;;;;;0,70022058;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Hurtos;61597;;;;;2053,8804;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Tentativas de hurto;893;;;;;29,776047;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Otros delitos contra la propiedad;7008;;;;;233,67361;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Delitos contra la seguridad p煤blica;338;;;;;11,270217;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Delitos contra el orden p煤blico;290;;;;;9,669713;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Delitos contra la seguridad de la naci贸n;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Delitos contra los poderes p煤blicos y el orden constitucional;11;;;;;0,36678219;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Delitos contra la administraci贸n p煤blica;2512;;;;;83,75972;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Delitos contra la fe p煤blica;1134;;;;;37,811913;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Ley 23,737 (estupefacientes);9855;;;;;328,60352;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Otros delitos previstos en leyes especiales;3724;;;;;124,17245;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Contravenciones;45;;;;;1,5004727;;;
+Ciudad Aut髇oma de Buenos Aires;2002;Suicidios (consumados);286;286;0;0;286;10,138791;10,138791;0;0
+Ciudad Aut髇oma de Buenos Aires;2003;Homicidios dolosos;142;146;119;27;0;4,7290487;4,8622613;8,6277084;1,663175
+Ciudad Aut髇oma de Buenos Aires;2003;Homicidios dolosos en grado de tentativa;44;47;36;11;0;1,4653391;1,5652486;2,6100631;0,67758983
+Ciudad Aut髇oma de Buenos Aires;2003;Muertes en accidentes viales;107;110;79;31;0;3,5634382;3,6633477;5,7276382;1,9095713
+Ciudad Aut髇oma de Buenos Aires;2003;Homicidios culposos por otros hechos;10;10;5;4;1;0,33303159;0,33303159;0,36250877;0,2463963
+Ciudad Aut髇oma de Buenos Aires;2003;Lesiones dolosas;13721;14308;8163;6145;0;456,95267;476,50162;591,83179;378,52631
+Ciudad Aut髇oma de Buenos Aires;2003;Lesiones culposas en Accidentes Viales;7510;8834;5725;3107;2;250,10674;294,20013;415,07254;191,38832
+Ciudad Aut髇oma de Buenos Aires;2003;Lesiones culposas por otros hechos;930;1002;531;469;2;30,971939;33,369766;38,498432;28,889967
+Ciudad Aut髇oma de Buenos Aires;2003;Otros delitos contra las personas;1515;1569;798;766;5;50,454288;52,252659;57,8564;47,184891
+Ciudad Aut髇oma de Buenos Aires;2003;Delitos contra el honor;0;0;0;0;0;0;0;0;0
+Ciudad Aut髇oma de Buenos Aires;2003;Abusos sexuales con acceso carnal (violaciones);213;221;47;157;17;7,0935731;7,3599987;3,4075823;9,6710548
+Ciudad Aut髇oma de Buenos Aires;2003;Otros delitos contra la integridad sexual;469;495;67;394;34;15,619183;16,485065;4,8576174;24,270035
+Ciudad Aut髇oma de Buenos Aires;2003;Delitos contra el estado civil;1;;;;;0,03330316;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Amenazas;12204;;;;;406,43176;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Otros delitos contra la libertad;2703;2703;0;0;2703;90,01844;90,01844;0;0
+Ciudad Aut髇oma de Buenos Aires;2003;Robos (excluye los agravados por el resultado de lesiones y/o muertes);73222;;;;;2438,5239;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);3366;;;;;112,09844;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Robos agravados por el resultado de lesiones y/o muertes ;28;;;;;0,9324885;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Tentativas de robo agravado por el resultado de lesiones y/o muertes;2;;;;;0,06660632;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Hurtos;51050;;;;;1700,1263;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Tentativas de hurto;933;;;;;31,07185;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Otros delitos contra la propiedad;6672;;;;;222,19868;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Delitos contra la seguridad p煤blica;323;;;;;10,756921;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Delitos contra el orden p煤blico;255;;;;;8,4923058;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Delitos contra la seguridad de la naci贸n;1;;;;;0,03330316;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Delitos contra los poderes p煤blicos y el orden constitucional;8;;;;;0,26642528;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Delitos contra la administraci贸n p煤blica;2348;;;;;78,195824;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Delitos contra la fe p煤blica;1119;;;;;37,266235;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Ley 23,737 (estupefacientes);9496;;;;;316,24683;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Otros delitos previstos en leyes especiales;4066;;;;;135,41064;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Contravenciones;4;;;;;0,13321264;;;
+Ciudad Aut髇oma de Buenos Aires;2003;Suicidios (consumados);310;310;0;0;310;10,992272;10,992272;0;0
+Ciudad Aut髇oma de Buenos Aires;2004;Homicidios dolosos;127;135;101;32;2;4,2243423;4,4904428;7,302949;1,9712542
+Ciudad Aut髇oma de Buenos Aires;2004;Homicidios dolosos en grado de tentativa;44;47;28;19;0;1,4635518;1,5633394;2,0245798;1,1704322
+Ciudad Aut髇oma de Buenos Aires;2004;Muertes en accidentes viales;121;125;83;42;0;4,0247674;4,1578174;6,0014329;2,5872712
+Ciudad Aut髇oma de Buenos Aires;2004;Homicidios culposos por otros hechos;21;21;13;8;0;0,69851333;0,69851333;0,93998349;0,49281356
+Ciudad Aut髇oma de Buenos Aires;2004;Lesiones dolosas;15616;16172;8989;7155;28;519,4278;537,92181;649,96246;440,7601
+Ciudad Aut髇oma de Buenos Aires;2004;Lesiones culposas en Accidentes Viales;8903;10024;6373;3645;6;296,13638;333,42371;460,80884;224,53818
+Ciudad Aut髇oma de Buenos Aires;2004;Lesiones culposas por otros hechos;1256;1346;666;677;3;41,777748;44,771378;48,156078;41,704346
+Ciudad Aut髇oma de Buenos Aires;2004;Otros delitos contra las personas;1338;1419;649;767;3;44,50528;47,199543;46,926868;47,248497
+Ciudad Aut髇oma de Buenos Aires;2004;Delitos contra el honor;0;0;0;0;0;0;0;0;0
+Ciudad Aut髇oma de Buenos Aires;2004;Abusos sexuales con acceso carnal (violaciones);221;232;23;209;0;7,3510213;7,7169094;1,6630477;12,874754
+Ciudad Aut髇oma de Buenos Aires;2004;Otros delitos contra la integridad sexual;605;631;80;546;5;20,123837;20,988663;5,784514;33,634525
+Ciudad Aut髇oma de Buenos Aires;2004;Delitos contra el estado civil;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Amenazas;14372;;;;;478,04922;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Otros delitos contra la libertad;2935;2935;0;0;2935;97,625557;97,625557;0;0
+Ciudad Aut髇oma de Buenos Aires;2004;Robos (excluye los agravados por el resultado de lesiones y/o muertes);69938;;;;;2326,3154;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);4052;;;;;134,77982;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Robos agravados por el resultado de lesiones y/o muertes ;63;;;;;2,09554;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Tentativas de robo agravado por el resultado de lesiones y/o muertes;1;;;;;0,03326254;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Hurtos;48990;;;;;1629,5319;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Tentativas de hurto;990;;;;;32,929913;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Otros delitos contra la propiedad;7483;;;;;248,90358;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Delitos contra la seguridad p煤blica;303;;;;;10,078549;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Delitos contra el orden p煤blico;314;;;;;10,444437;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Delitos contra la seguridad de la naci贸n;1;;;;;0,03326254;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Delitos contra los poderes p煤blicos y el orden constitucional;7;;;;;0,23283778;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Delitos contra la administraci贸n p煤blica;2412;;;;;80,229248;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Delitos contra la fe p煤blica;853;;;;;28,372946;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Ley 23,737 (estupefacientes);8312;;;;;276,47824;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Otros delitos previstos en leyes especiales;2979;;;;;99,089104;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Contravenciones;2;;;;;0,066525079;;;
+Ciudad Aut髇oma de Buenos Aires;2004;Suicidios (consumados);269;269;0;0;269;9,5407734;9,5407734;0;0
+Ciudad Aut髇oma de Buenos Aires;2005;Homicidios dolosos;130;138;106;32;0;4,3188567;4,5846324;7,6438375;1,9713392
+Ciudad Aut髇oma de Buenos Aires;2005;Homicidios dolosos en grado de tentativa;27;29;20;9;0;0,89699328;0,9634372;1,4422334;0,55443913
+Ciudad Aut髇oma de Buenos Aires;2005;Muertes en accidentes viales;107;109;76;33;0;3,5547512;3,6211951;5,4804873;2,0329435
+Ciudad Aut髇oma de Buenos Aires;2005;Homicidios culposos por otros hechos;15;15;10;5;0;0,49832961;0,49832961;0,72111672;0,30802175
+Ciudad Aut髇oma de Buenos Aires;2005;Lesiones dolosas;15617;16217;9062;7152;3;518,82758;538,76074;653,47601;440,5943
+Ciudad Aut髇oma de Buenos Aires;2005;Lesiones culposas en Accidentes Viales;10141;11484;7396;4087;1;336,90402;381,52115;533,33795;251,77698
+Ciudad Aut髇oma de Buenos Aires;2005;Lesiones culposas por otros hechos;1530;1612;820;792;0;50,82962;53,553822;59,131573;48,790646
+Ciudad Aut髇oma de Buenos Aires;2005;Otros delitos contra las personas;1241;1305;599;695;11;41,22847;43,354675;43,194893;42,815022
+Ciudad Aut髇oma de Buenos Aires;2005;Delitos contra el honor;0;0;0;0;0;0;0;0;0
+Ciudad Aut髇oma de Buenos Aires;2005;Abusos sexuales con acceso carnal (violaciones);215;220;23;197;0;7,142724;7,3088341;1,6585685;12,136057
+Ciudad Aut髇oma de Buenos Aires;2005;Otros delitos contra la integridad sexual;591;623;84;537;2;19,634186;20,697289;6,0573807;33,081535
+Ciudad Aut髇oma de Buenos Aires;2005;Delitos contra el estado civil;1;;;;;0,033221975;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Amenazas;14444;;;;;479,85818;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Otros delitos contra la libertad;2517;2517;0;0;2517;83,619705;83,619705;0;0
+Ciudad Aut髇oma de Buenos Aires;2005;Robos (excluye los agravados por el resultado de lesiones y/o muertes);71277;;;;;2367,9626;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);3474;;;;;115,41313;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Robos agravados por el resultado de lesiones y/o muertes ;16;;;;;0,5315516;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Tentativas de robo agravado por el resultado de lesiones y/o muertes;6;;;;;0,19933183;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Hurtos;50701;;;;;1684,3872;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Tentativas de hurto;956;;;;;31,760206;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Otros delitos contra la propiedad;8032;;;;;266,8389;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Delitos contra la seguridad p煤blica;312;;;;;10,365255;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Delitos contra el orden p煤blico;328;;;;;10,896808;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Delitos contra la seguridad de la naci贸n;3;;;;;0,099665917;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Delitos contra los poderes p煤blicos y el orden constitucional;9;;;;;0,29899776;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Delitos contra la administraci贸n p煤blica;2204;;;;;73,22123;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Delitos contra la fe p煤blica;846;;;;;28,105789;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Ley 23,737 (estupefacientes);7861;;;;;261,15793;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Otros delitos previstos en leyes especiales;2624;;;;;87,174461;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Contravenciones;71;;;;;2,3587601;;;
+Ciudad Aut髇oma de Buenos Aires;2005;Suicidios (consumados);222;222;0;0;222;7,8757143;7,8757143;0;0
+Ciudad Aut髇oma de Buenos Aires;2006;Homicidios dolosos;116;119;99;20;0;3,8490484;3,9485927;7,1198282;1,2321393
+Ciudad Aut髇oma de Buenos Aires;2006;Homicidios dolosos en grado de tentativa;26;29;22;4;3;0,86271775;0,96226209;1,5821841;0,24642788
+Ciudad Aut髇oma de Buenos Aires;2006;Muertes en accidentes viales;119;119;82;29;8;3,9485927;3,9485927;5,8972316;1,7866021
+Ciudad Aut髇oma de Buenos Aires;2006;Homicidios culposos por otros hechos;8;8;5;3;0;0,26545161;0,26545161;0,35958728;0,18482091
+Ciudad Aut髇oma de Buenos Aires;2006;Lesiones dolosas;17503;18071;10420;7649;2;580,77496;599,62201;749,37988;471,23169
+Ciudad Aut髇oma de Buenos Aires;2006;Lesiones culposas en Accidentes Viales;10290;10927;7316;3601;10;341,43713;362,5737;526,14813;221,84669
+Ciudad Aut髇oma de Buenos Aires;2006;Lesiones culposas por otros hechos;2063;2111;1266;843;2;68,453331;70,046043;91,047501;51,934673
+Ciudad Aut髇oma de Buenos Aires;2006;Otros delitos contra las personas;1238;1310;664;640;6;41,078636;43,467701;47,753189;39,428459
+Ciudad Aut髇oma de Buenos Aires;2006;Delitos contra el honor;4;4;0;0;4;0,13272581;0,13272581;0;0
+Ciudad Aut髇oma de Buenos Aires;2006;Abusos sexuales con acceso carnal (violaciones);206;210;15;194;1;6,8353786;6,9681048;1,0787618;11,951752
+Ciudad Aut髇oma de Buenos Aires;2006;Otros delitos contra la integridad sexual;720;750;95;651;4;23,890644;24,886087;6,8321581;40,106136
+Ciudad Aut髇oma de Buenos Aires;2006;Delitos contra el estado civil;5;;;;;0,16590725;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Amenazas;15630;;;;;518,6261;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Otros delitos contra la libertad;2743;2743;0;0;2743;91,016716;91,016716;0;0
+Ciudad Aut髇oma de Buenos Aires;2006;Robos (excluye los agravados por el resultado de lesiones y/o muertes);78157;;;;;2593,3625;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);3414;;;;;113,28147;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Robos agravados por el resultado de lesiones y/o muertes ;12;;;;;0,39817742;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Tentativas de robo agravado por el resultado de lesiones y/o muertes;4;;;;;0,13272581;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Hurtos;54984;;;;;1824,4489;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Tentativas de hurto;956;;;;;31,721466;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Otros delitos contra la propiedad;8867;;;;;294,21991;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Delitos contra la seguridad p煤blica;369;;;;;12,243956;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Delitos contra el orden p煤blico;256;;;;;8,4944515;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Delitos contra la seguridad de la naci贸n;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Delitos contra los poderes p煤blicos y el orden constitucional;9;;;;;0,29863307;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Delitos contra la administraci贸n p煤blica;2647;;;;;87,831299;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Delitos contra la fe p煤blica;839;;;;;27,839237;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Ley 23,737 (estupefacientes);8806;;;;;292,19586;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Otros delitos previstos en leyes especiales;2328;;;;;77,246414;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Contravenciones;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2006;Suicidios (consumados);179;179;0;0;179;6,3517814;6,3517814;0;0
+Ciudad Aut髇oma de Buenos Aires;2007;Homicidios dolosos;119;122;96;26;0;3,9437757;4,0431986;6,8854766;1,6018503
+Ciudad Aut髇oma de Buenos Aires;2007;Homicidios dolosos en grado de tentativa;26;26;19;7;0;0,86166525;0,86166525;1,3627505;0,43126738
+Ciudad Aut髇oma de Buenos Aires;2007;Muertes en accidentes viales;108;123;89;33;1;3,5792251;4,0763397;6,3834105;2,0331175
+Ciudad Aut髇oma de Buenos Aires;2007;Homicidios culposos por otros hechos;17;17;10;6;1;0,56339651;0,56339651;0,71723717;0,36965775
+Ciudad Aut髇oma de Buenos Aires;2007;Lesiones dolosas;17911;18561;10771;7787;3;593,58795;615,12958;772,53613;479,75415
+Ciudad Aut髇oma de Buenos Aires;2007;Lesiones culposas en Accidentes Viales;10819;11348;7716;3632;0;358,55219;376,08374;553,42017;223,76616
+Ciudad Aut髇oma de Buenos Aires;2007;Lesiones culposas por otros hechos;2013;2050;1217;826;7;66,712776;67,938995;87,287758;50,889549
+Ciudad Aut髇oma de Buenos Aires;2007;Otros delitos contra las personas;1165;1246;729;515;2;38,609234;41,293652;52,286587;31,728956
+Ciudad Aut髇oma de Buenos Aires;2007;Delitos contra el honor;2;2;2;0;0;0,066281945;0,066281945;0,14344743;0
+Ciudad Aut髇oma de Buenos Aires;2007;Abusos sexuales con acceso carnal (violaciones);196;200;18;182;0;6,4956307;6,6281943;1,2910268;11,212952
+Ciudad Aut髇oma de Buenos Aires;2007;Otros delitos contra la integridad sexual;691;730;120;604;6;22,900412;24,192909;8,6068459;37,212215
+Ciudad Aut髇oma de Buenos Aires;2007;Delitos contra el estado civil;2;;;;;0,066281945;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Amenazas;15498;;;;;513,61877;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Otros delitos contra la libertad;2920;2920;0;0;2920;96,771637;96,771637;0;0
+Ciudad Aut髇oma de Buenos Aires;2007;Robos (excluye los agravados por el resultado de lesiones y/o muertes);83055;;;;;2752,5234;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);3778;;;;;125,20659;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Robos agravados por el resultado de lesiones y/o muertes ;16;;;;;0,53025556;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Tentativas de robo agravado por el resultado de lesiones y/o muertes;2;;;;;0,066281945;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Hurtos;54389;;;;;1802,5043;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Tentativas de hurto;977;;;;;32,378731;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Otros delitos contra la propiedad;8826;;;;;292,50223;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Delitos contra la seguridad p煤blica;375;;;;;12,427864;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Delitos contra el orden p煤blico;337;;;;;11,168508;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Delitos contra la seguridad de la naci贸n;1;;;;;0,033140972;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Delitos contra los poderes p煤blicos y el orden constitucional;11;;;;;0,36455068;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Delitos contra la administraci贸n p煤blica;2888;;;;;95,711128;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Delitos contra la fe p煤blica;735;;;;;24,358614;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Ley 23,737 (estupefacientes);8227;;;;;272,65079;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Otros delitos previstos en leyes especiales;2244;;;;;74,36834;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Contravenciones;1;;;;;0,033140972;;;
+Ciudad Aut髇oma de Buenos Aires;2007;Suicidios (consumados);190;190;0;0;190;6,7437539;6,7437539;0;0
+Ciudad Aut髇oma de Buenos Aires;2008;Homicidios dolosos;139;144;122;22;0;4,600976;4,766479;8,7267275;1,3554693
+Ciudad Aut髇oma de Buenos Aires;2008;Homicidios dolosos en grado de tentativa;46;48;35;13;0;1,5226252;1,5888263;2,5035694;0,80095917
+Ciudad Aut髇oma de Buenos Aires;2008;Muertes en accidentes viales;125;136;100;36;0;4,1375685;4,5016747;7,1530552;2,2180407
+Ciudad Aut髇oma de Buenos Aires;2008;Homicidios culposos por otros hechos;18;18;8;3;7;0,59580988;0,59580988;0,57224441;0,18483673
+Ciudad Aut髇oma de Buenos Aires;2008;Lesiones dolosas;18437;19313;10903;8401;9;610,27478;639,27087;779,89764;517,60449
+Ciudad Aut髇oma de Buenos Aires;2008;Lesiones culposas en Accidentes Viales;12217;13016;8975;4040;1;404,3894;430,83673;641,98669;248,91347
+Ciudad Aut髇oma de Buenos Aires;2008;Lesiones culposas por otros hechos;1298;1356;690;661;5;42,964512;44,884342;49,356083;40,725693
+Ciudad Aut髇oma de Buenos Aires;2008;Otros delitos contra las personas;1341;1421;867;553;1;44,387836;47,035877;62,016991;34,071571
+Ciudad Aut髇oma de Buenos Aires;2008;Delitos contra el honor;2;2;2;0;0;0,066201098;0,066201098;0,1430611;0
+Ciudad Aut髇oma de Buenos Aires;2008;Abusos sexuales con acceso carnal (violaciones);224;230;20;209;1;7,4145226;7,6131263;1,430611;12,876959
+Ciudad Aut髇oma de Buenos Aires;2008;Otros delitos contra la integridad sexual;863;915;110;805;0;28,565773;30,287003;7,868361;49,597858
+Ciudad Aut髇oma de Buenos Aires;2008;Delitos contra el estado civil;3;;;;;0,099301644;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Amenazas;11605;;;;;384,13187;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Otros delitos contra la libertad;2770;2770;0;0;2770;91,688522;91,688522;0;0
+Ciudad Aut髇oma de Buenos Aires;2008;Robos (excluye los agravados por el resultado de lesiones y/o muertes);87168;;;;;2885,3086;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);4555;;;;;150,77299;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Robos agravados por el resultado de lesiones y/o muertes ;26;;;;;0,86061424;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Tentativas de robo agravado por el resultado de lesiones y/o muertes;14;;;;;0,46340767;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Hurtos;56084;;;;;1856,4111;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Tentativas de hurto;1097;;;;;36,311302;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Otros delitos contra la propiedad;8012;;;;;265,2016;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Delitos contra la seguridad p煤blica;504;;;;;16,682676;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Delitos contra el orden p煤blico;569;;;;;18,834211;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Delitos contra la seguridad de la naci贸n;1;;;;;0,033100549;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Delitos contra los poderes p煤blicos y el orden constitucional;14;;;;;0,46340767;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Delitos contra la administraci贸n p煤blica;3202;;;;;105,98795;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Delitos contra la fe p煤blica;655;;;;;21,680859;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Ley 23,737 (estupefacientes);8290;;;;;274,40353;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Otros delitos previstos en leyes especiales;2317;;;;;76,69397;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Contravenciones;1;;;;;0,033100549;;;
+Ciudad Aut髇oma de Buenos Aires;2008;Suicidios (consumados);184;184;0;0;184;6,5323811;6,5323811;0;0
+Ciudad Aut髇oma de Buenos Aires;2009;Homicidios dolosos;150;157;134;23;0;4,9590268;5,1904483;9,5592747;1,4171427
+Ciudad Aut髇oma de Buenos Aires;2009;Homicidios dolosos en grado de tentativa;45;47;36;11;0;1,4877081;1,5538285;2,5681634;0,67776394
+Ciudad Aut髇oma de Buenos Aires;2009;Muertes en accidentes viales;120;129;74;21;34;3,9672215;4,2647629;5,2790022;1,2939129
+Ciudad Aut髇oma de Buenos Aires;2009;Homicidios culposos por otros hechos;12;13;10;3;0;0,39672214;0,42978233;0,71337873;0,1848447
+Ciudad Aut髇oma de Buenos Aires;2009;Lesiones dolosas;17002;17838;10069;7749;20;562,08917;589,72748;718,30103;477,45389
+Ciudad Aut髇oma de Buenos Aires;2009;Lesiones culposas en Accidentes Viales;11620;12369;8544;3817;8;384,15927;408,92136;609,51074;235,18408
+Ciudad Aut髇oma de Buenos Aires;2009;Lesiones culposas por otros hechos;1125;1168;613;550;5;37,192703;38,614288;43,730114;33,888195
+Ciudad Aut髇oma de Buenos Aires;2009;Otros delitos contra las personas;1252;1322;778;535;9;41,391346;43,705555;55,500862;32,963974
+Ciudad Aut髇oma de Buenos Aires;2009;Delitos contra el honor;0;0;0;0;0;0;0;0;0
+Ciudad Aut髇oma de Buenos Aires;2009;Abusos sexuales con acceso carnal (violaciones);262;266;17;196;53;8,661767;8,7940073;1,2127438;12,076521
+Ciudad Aut髇oma de Buenos Aires;2009;Otros delitos contra la integridad sexual;795;835;99;734;2;26,282843;27,605249;7,062449;45,225338
+Ciudad Aut髇oma de Buenos Aires;2009;Delitos contra el estado civil;1;;;;;0,033060178;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Amenazas;9650;;;;;319,03073;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Otros delitos contra la libertad;2466;2466;0;0;2466;81,526405;81,526405;0;0
+Ciudad Aut髇oma de Buenos Aires;2009;Robos (excluye los agravados por el resultado de lesiones y/o muertes);82677;;;;;2733,3164;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);4438;;;;;146,72107;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Robos agravados por el resultado de lesiones y/o muertes ;19;;;;;0,62814343;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Tentativas de robo agravado por el resultado de lesiones y/o muertes;6;;;;;0,19836107;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Hurtos;56845;;;;;1879,3059;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Tentativas de hurto;1080;;;;;35,704994;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Otros delitos contra la propiedad;8181;;;;;270,46533;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Delitos contra la seguridad p煤blica;519;;;;;17,158234;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Delitos contra el orden p煤blico;331;;;;;10,94292;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Delitos contra la seguridad de la naci贸n;1;;;;;0,033060178;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Delitos contra los poderes p煤blicos y el orden constitucional;6;;;;;0,19836107;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Delitos contra la administraci贸n p煤blica;3002;;;;;99,246658;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Delitos contra la fe p煤blica;657;;;;;21,720537;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Ley 23,737 (estupefacientes);7564;;;;;250,0672;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Otros delitos previstos en leyes especiales;2233;;;;;73,82338;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Contravenciones;1;;;;;0,033060178;;;
+Ciudad Aut髇oma de Buenos Aires;2009;Suicidios (consumados);181;181;0;0;181;6,4274383;6,4274383;0;0
+Ciudad Aut髇oma de Buenos Aires;2010;Homicidios dolosos;161;168;128;24;16;5,3161964;5,5473356;9,1066513;1,4788206
+Ciudad Aut髇oma de Buenos Aires;2010;Homicidios dolosos en grado de tentativa;40;43;29;14;0;1,3207941;1,4198537;2,0632257;0,86264533
+Ciudad Aut髇oma de Buenos Aires;2010;Muertes en accidentes viales;183;195;92;39;64;6,0426331;6,4388714;6,5454059;2,4030833
+Ciudad Aut髇oma de Buenos Aires;2010;Homicidios culposos por otros hechos;11;13;12;1;0;0,3632184;0,42925811;0,85374862;0,06161752
+Ciudad Aut髇oma de Buenos Aires;2010;Lesiones dolosas;15944;16753;9486;7254;13;526,46857;553,18164;674,88824;446,97351
+Ciudad Aut髇oma de Buenos Aires;2010;Lesiones culposas en Accidentes Viales;11312;12016;8194;3792;30;373,5206;396,76657;582,96802;233,65364
+Ciudad Aut髇oma de Buenos Aires;2010;Lesiones culposas por otros hechos;1079;1110;546;564;0;35,628422;36,652039;38,845562;34,752281
+Ciudad Aut髇oma de Buenos Aires;2010;Otros delitos contra las personas;1137;1216;756;457;3;37,543575;40,152142;53,786163;28,159208
+Ciudad Aut髇oma de Buenos Aires;2010;Delitos contra el honor;1;1;1;0;0;0,033019856;0,033019856;0,071145713;0
+Ciudad Aut髇oma de Buenos Aires;2010;Abusos sexuales con acceso carnal (violaciones);204;204;15;174;15;6,7360501;6,7360501;1,0671858;10,721449
+Ciudad Aut髇oma de Buenos Aires;2010;Otros delitos contra la integridad sexual;790;828;112;715;1;26,085684;27,340439;7,9683204;44,056526
+Ciudad Aut髇oma de Buenos Aires;2010;Delitos contra el estado civil;1;;;;;0,033019856;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Amenazas;9127;;;;;301,37219;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Otros delitos contra la libertad;2357;2357;0;0;2357;77,827797;77,827797;0;0
+Ciudad Aut髇oma de Buenos Aires;2010;Robos (excluye los agravados por el resultado de lesiones y/o muertes);80991;;;;;2674,311;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);4396;;;;;145,15527;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Robos agravados por el resultado de lesiones y/o muertes ;14;;;;;0,46227795;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Tentativas de robo agravado por el resultado de lesiones y/o muertes;2;;;;;0,066039711;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Hurtos;54408;;;;;1796,5442;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Tentativas de hurto;1074;;;;;35,463322;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Otros delitos contra la propiedad;8055;;;;;265,97491;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Delitos contra la seguridad p煤blica;487;;;;;16,080669;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Delitos contra el orden p煤blico;285;;;;;9,4106579;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Delitos contra la seguridad de la naci贸n;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Delitos contra los poderes p煤blicos y el orden constitucional;3;;;;;0,099059559;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Delitos contra la administraci贸n p煤blica;2761;;;;;91,167816;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Delitos contra la fe p煤blica;640;;;;;21,132706;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Ley 23,737 (estupefacientes);7385;;;;;243,85162;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Otros delitos previstos en leyes especiales;2354;;;;;77,728737;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Contravenciones;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2010;Suicidios (consumados);198;198;0;0;198;7,0328307;7,0328307;0;0
+Ciudad Aut髇oma de Buenos Aires;2011;Homicidios dolosos;178;190;143;34;13;5,8675408;6,2631049;10,143031;2,0938487
+Ciudad Aut髇oma de Buenos Aires;2011;Homicidios dolosos en grado de tentativa;50;56;39;15;2;1,6481856;1,8459679;2,7662811;0,92375684
+Ciudad Aut髇oma de Buenos Aires;2011;Muertes en accidentes viales;149;160;90;33;37;4,911593;5,2741938;6,3837256;2,0322649
+Ciudad Aut髇oma de Buenos Aires;2011;Homicidios culposos por otros hechos;11;11;8;2;1;0,36260083;0,36260083;0,5674423;0,12316757
+Ciudad Aut髇oma de Buenos Aires;2011;Lesiones dolosas;16833;18117;9100;7430;1587;554,87817;597,20355;645,46558;457,56754
+Ciudad Aut髇oma de Buenos Aires;2011;Lesiones culposas en Accidentes Viales;10443;11435;7199;3266;970;344,24005;376,94003;510,62714;201,13264
+Ciudad Aut髇oma de Buenos Aires;2011;Lesiones culposas por otros hechos;2265;2439;1365;953;121;74,662804;80,398491;96,819839;58,68935
+Ciudad Aut髇oma de Buenos Aires;2011;Otros delitos contra las personas;879;957;636;227;94;28,975101;31,546272;45,111664;13,97952
+Ciudad Aut髇oma de Buenos Aires;2011;Delitos contra el honor;0;0;0;0;0;0;0;0;0
+Ciudad Aut髇oma de Buenos Aires;2011;Abusos sexuales con acceso carnal (violaciones);211;219;12;173;34;6,9553432;7,2190528;0,85116345;10,653996
+Ciudad Aut髇oma de Buenos Aires;2011;Otros delitos contra la integridad sexual;706;768;70;627;71;23,272381;25,31613;4,9651198;38,613033
+Ciudad Aut髇oma de Buenos Aires;2011;Delitos contra el estado civil;4;;;;;0,13185485;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Amenazas;10460;;;;;344,80042;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Otros delitos contra la libertad;2434;2434;0;0;2434;80,233673;80,233673;0;0
+Ciudad Aut髇oma de Buenos Aires;2011;Robos (excluye los agravados por el resultado de lesiones y/o muertes);79746;;;;;2628,7241;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);4543;;;;;149,75414;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Robos agravados por el resultado de lesiones y/o muertes ;58;;;;;1,9118953;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Tentativas de robo agravado por el resultado de lesiones y/o muertes;13;;;;;0,42852825;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Hurtos;55054;;;;;1814,7842;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Tentativas de hurto;898;;;;;29,601412;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Otros delitos contra la propiedad;7930;;;;;261,40222;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Delitos contra la seguridad p煤blica;639;;;;;21,063812;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Delitos contra el orden p煤blico;236;;;;;7,7794356;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Delitos contra la seguridad de la naci贸n;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Delitos contra los poderes p煤blicos y el orden constitucional;1;;;;;0,032963712;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Delitos contra la administraci贸n p煤blica;2853;;;;;94,045471;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Delitos contra la fe p煤blica;632;;;;;20,833065;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Ley 23,737 (estupefacientes);7000;;;;;230,74597;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Otros delitos previstos en leyes especiales;2841;;;;;93,649902;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Contravenciones;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2011;Suicidios (consumados);166;166;0;0;166;5,8828492;5,8828492;0;0
+Ciudad Aut髇oma de Buenos Aires;2012;Homicidios dolosos;158;158;0;0;158;5,1993179;5,1993179;0;0
+Ciudad Aut髇oma de Buenos Aires;2012;Homicidios dolosos en grado de tentativa;85;95;72;22;1;2,7971015;3,1261723;5,0915599;1,3540503
+Ciudad Aut髇oma de Buenos Aires;2012;Muertes en accidentes viales;106;111;50;19;42;3,4881501;3,6526856;3,5358052;1,1694071
+Ciudad Aut髇oma de Buenos Aires;2012;Homicidios culposos por otros hechos;21;25;18;7;0;0,69104862;0,8226769;1,27289;0,43083417
+Ciudad Aut髇oma de Buenos Aires;2012;Lesiones dolosas;18132;20242;10933;9205;104;596,67114;666,10504;773,13922;566,54694
+Ciudad Aut髇oma de Buenos Aires;2012;Lesiones culposas en Accidentes Viales;9536;10756;7253;3449;54;313,80188;353,94852;512,90393;212,27815
+Ciudad Aut髇oma de Buenos Aires;2012;Lesiones culposas por otros hechos;2681;2935;1747;1134;54;88,223877;96,582268;123,54104;69,795135
+Ciudad Aut髇oma de Buenos Aires;2012;Otros delitos contra las personas;650;770;574;176;20;21,389601;25,338449;40,591045;10,832402
+Ciudad Aut髇oma de Buenos Aires;2012;Delitos contra el honor;3;5;2;3;0;0,098721229;0,16453539;0,14143221;0,18464322
+Ciudad Aut髇oma de Buenos Aires;2012;Abusos sexuales con acceso carnal (violaciones);285;295;26;225;44;9,3785172;9,7075872;1,8386188;13,848242
+Ciudad Aut髇oma de Buenos Aires;2012;Otros delitos contra la integridad sexual;649;720;87;601;32;21,356693;23,693096;6,1523013;36,990192
+Ciudad Aut髇oma de Buenos Aires;2012;Delitos contra el estado civil;6;;;;;0,19744246;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Amenazas;11529;;;;;379,38568;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Otros delitos contra la libertad;2490;2490;0;0;2490;81,938622;81,938622;0;0
+Ciudad Aut髇oma de Buenos Aires;2012;Robos (excluye los agravados por el resultado de lesiones y/o muertes);78627;;;;;2587,3848;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);4835;;;;;159,10571;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Robos agravados por el resultado de lesiones y/o muertes ;106;;;;;3,4881501;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Tentativas de robo agravado por el resultado de lesiones y/o muertes;35;;;;;1,1517477;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Hurtos;55533;;;;;1827,4287;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Tentativas de hurto;950;;;;;31,261723;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Otros delitos contra la propiedad;6357;;;;;209,19029;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Delitos contra la seguridad p煤blica;687;;;;;22,607162;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Delitos contra el orden p煤blico;509;;;;;16,749702;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Delitos contra la seguridad de la naci贸n;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Delitos contra los poderes p煤blicos y el orden constitucional;3;;;;;0,098721229;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Delitos contra la administraci贸n p煤blica;2855;;;;;93,949707;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Delitos contra la fe p煤blica;501;;;;;16,486446;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Ley 23,737 (estupefacientes);4588;;;;;150,97768;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Otros delitos previstos en leyes especiales;2537;;;;;83,485252;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Contravenciones;1;;;;;0,032907076;;;
+Ciudad Aut髇oma de Buenos Aires;2012;Suicidios (consumados);171;171;0;0;171;6,046721;6,046721;0;0
+Ciudad Aut髇oma de Buenos Aires;2013;Homicidios dolosos;176;176;0;0;176;5,7817216;5,7817216;0;0
+Ciudad Aut髇oma de Buenos Aires;2013;Homicidios dolosos en grado de tentativa;52;61;44;17;0;1,708236;2,0038922;3,1022203;1,0456796
+Ciudad Aut髇oma de Buenos Aires;2013;Muertes en accidentes viales;122;150;72;43;35;4,0077844;4,9276037;5,0763602;2,6449542
+Ciudad Aut髇oma de Buenos Aires;2013;Homicidios culposos por otros hechos;18;37;21;15;1;0,59131241;1,2154756;1,4806051;0,92265844
+Ciudad Aut髇oma de Buenos Aires;2013;Lesiones dolosas;17616;19511;10549;8821;141;578,69775;640,94983;743,75732;542,58466
+Ciudad Aut髇oma de Buenos Aires;2013;Lesiones culposas en Accidentes Viales;9235;10588;6871;3393;324;303,37613;347,82312;484,43991;208,70534
+Ciudad Aut髇oma de Buenos Aires;2013;Lesiones culposas por otros hechos;3101;3471;2053;1253;165;101,87;114,02475;144,74678;77,072739
+Ciudad Aut髇oma de Buenos Aires;2013;Otros delitos contra las personas;586;685;485;170;30;19,250505;22,502724;34,194927;10,456796
+Ciudad Aut髇oma de Buenos Aires;2013;Delitos contra el honor;0;0;0;0;0;0;0;0;0
+Ciudad Aut髇oma de Buenos Aires;2013;Abusos sexuales con acceso carnal (violaciones);298;318;25;261;32;9,789506;10,44652;1,7626251;16,054256
+Ciudad Aut髇oma de Buenos Aires;2013;Otros delitos contra la integridad sexual;634;708;77;613;18;20,827337;23,258289;5,4288855;37,705975
+Ciudad Aut髇oma de Buenos Aires;2013;Delitos contra el estado civil;5;;;;;0,16425346;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Amenazas;11983;;;;;393,64984;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Otros delitos contra la libertad;1896;1924;101;70;1753;62,284908;63,204731;7,1210055;4,3057394
+Ciudad Aut髇oma de Buenos Aires;2013;Robos (excluye los agravados por el resultado de lesiones y/o muertes);71594;;;;;2351,9124;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);4788;;;;;157,28911;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Robos agravados por el resultado de lesiones y/o muertes ;158;;;;;5,1904092;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Tentativas de robo agravado por el resultado de lesiones y/o muertes;30;;;;;0,98552072;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Hurtos;50241;;;;;1650,4515;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Tentativas de hurto;832;;;;;27,331776;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Otros delitos contra la propiedad;6583;;;;;216,2561;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Delitos contra la seguridad p煤blica;796;;;;;26,149151;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Delitos contra el orden p煤blico;685;;;;;22,502724;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Delitos contra la seguridad de la naci贸n;1;;;;;0,03285069;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Delitos contra los poderes p煤blicos y el orden constitucional;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Delitos contra la administraci贸n p煤blica;3163;;;;;103,90674;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Delitos contra la fe p煤blica;402;;;;;13,205977;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Ley 23,737 (estupefacientes);4087;;;;;134,26077;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Otros delitos previstos en leyes especiales;2354;;;;;77,330528;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Contravenciones;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2013;Suicidios (consumados);162;162;12;4;146;5,7166367;5,7166367;0,91598576;0,26250681
+Ciudad Aut髇oma de Buenos Aires;2014;Homicidios dolosos;194;200;163;34;3;6,3622642;6,5590353;11,458643;2,0900929
+Ciudad Aut髇oma de Buenos Aires;2014;Homicidios dolosos en grado de tentativa;54;68;40;25;3;1,7709395;2,230072;2,8119369;1,5368329
+Ciudad Aut髇oma de Buenos Aires;2014;Muertes en accidentes viales;82;102;77;20;5;2,6892045;3,3451078;5,4129786;1,2294663
+Ciudad Aut髇oma de Buenos Aires;2014;Homicidios culposos por otros hechos;23;24;17;6;1;0,75428903;0,78708422;1,1950732;0,36883992
+Ciudad Aut髇oma de Buenos Aires;2014;Lesiones dolosas;18679;21175;11478;9460;237;612,58105;694,43787;806,88531;581,5376
+Ciudad Aut髇oma de Buenos Aires;2014;Lesiones culposas en Accidentes Viales;9009;10567;6491;3511;565;295,45172;346,54663;456,30707;215,83282
+Ciudad Aut髇oma de Buenos Aires;2014;Lesiones culposas por otros hechos;2773;3133;1829;1130;174;90,941025;102,74728;128,57582;69,464851
+Ciudad Aut髇oma de Buenos Aires;2014;Otros delitos contra las personas;533;623;438;139;46;17,479828;20,431395;30,79071;8,5447912
+Ciudad Aut髇oma de Buenos Aires;2014;Delitos contra el honor;0;0;0;0;0;0;0;0;0
+Ciudad Aut髇oma de Buenos Aires;2014;Abusos sexuales con acceso carnal (violaciones);267;291;40;243;8;8,7563114;9,543396;2,8119369;14,938017
+Ciudad Aut髇oma de Buenos Aires;2014;Otros delitos contra la integridad sexual;639;718;96;574;48;20,956118;23,546936;6,7486486;35,285686
+Ciudad Aut髇oma de Buenos Aires;2014;Delitos contra el estado civil;2;;;;;0,065590352;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Amenazas;12441;;;;;408,00479;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Otros delitos contra la libertad;2070;2070;0;0;2070;67,886017;67,886017;0;0
+Ciudad Aut髇oma de Buenos Aires;2014;Robos (excluye los agravados por el resultado de lesiones y/o muertes);75685;;;;;2482,1028;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);5036;;;;;165,15651;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Robos agravados por el resultado de lesiones y/o muertes ;166;;;;;5,4439993;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Tentativas de robo agravado por el resultado de lesiones y/o muertes;27;;;;;0,88546973;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Hurtos;48317;;;;;1584,5645;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Tentativas de hurto;850;;;;;27,875898;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Otros delitos contra la propiedad;7246;;;;;237,63383;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Delitos contra la seguridad p煤blica;661;;;;;21,67761;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Delitos contra el orden p煤blico;327;;;;;10,724022;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Delitos contra la seguridad de la naci贸n;1;;;;;0,032795176;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Delitos contra los poderes p煤blicos y el orden constitucional;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Delitos contra la administraci贸n p煤blica;3529;;;;;115,73418;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Delitos contra la fe p煤blica;437;;;;;14,331491;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Ley 23,737 (estupefacientes);4715;;;;;154,62926;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Otros delitos previstos en leyes especiales;2345;;;;;76,904686;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Contravenciones;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2014;Suicidios (consumados);185;185;0;0;185;6,5157433;6,5157433;0;0
+Ciudad Aut髇oma de Buenos Aires;2015;Homicidios dolosos;156;165;134;31;0;5,1076083;5,4022784;9,3930807;1,9045454
+Ciudad Aut髇oma de Buenos Aires;2015;Homicidios dolosos en grado de tentativa;43;53;29;24;0;1,4078665;1,7352773;2,032831;1,4744868
+Ciudad Aut髇oma de Buenos Aires;2015;Muertes en accidentes viales;93;111;76;31;4;3,0449204;3,6342599;5,3274188;1,9045454
+Ciudad Aut髇oma de Buenos Aires;2015;Homicidios culposos por otros hechos;21;30;20;10;0;0,6875627;0,98223239;1,4019524;0,61436951
+Ciudad Aut髇oma de Buenos Aires;2015;Lesiones dolosas;17974;20329;10685;9429;215;588,48816;665,59338;748,99304;579,289
+Ciudad Aut髇oma de Buenos Aires;2015;Lesiones culposas en Accidentes Viales;9675;11410;7182;3671;557;316,76996;373,57571;503,4411;225,53503
+Ciudad Aut髇oma de Buenos Aires;2015;Lesiones culposas por otros hechos;1767;2014;1075;837;102;57,853489;65,940536;75,354942;51,422726
+Ciudad Aut髇oma de Buenos Aires;2015;Otros delitos contra las personas;544;656;457;165;34;17,811148;21,478148;32,034611;10,137096
+Ciudad Aut髇oma de Buenos Aires;2015;Delitos contra el honor;0;0;0;0;0;0;0;0;0
+Ciudad Aut髇oma de Buenos Aires;2015;Abusos sexuales con acceso carnal (violaciones);273;299;42;250;7;8,9383144;9,7895832;2,9440999;15,359238
+Ciudad Aut髇oma de Buenos Aires;2015;Otros delitos contra la integridad sexual;681;795;83;651;61;22,296675;26,029158;5,8181024;39,995453
+Ciudad Aut髇oma de Buenos Aires;2015;Delitos contra el estado civil;3;;;;;0,098223239;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Amenazas;10761;;;;;352,32675;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Otros delitos contra la libertad;1859;1859;0;0;1859;60,865669;60,865669;0;0
+Ciudad Aut髇oma de Buenos Aires;2015;Robos (excluye los agravados por el resultado de lesiones y/o muertes);62909;;;;;2059,7085;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);4511;;;;;147,69501;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Robos agravados por el resultado de lesiones y/o muertes ;133;;;;;4,3545637;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Tentativas de robo agravado por el resultado de lesiones y/o muertes;24;;;;;0,78578591;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Hurtos;42410;;;;;1388,5492;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Tentativas de hurto;775;;;;;25,374336;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Otros delitos contra la propiedad;6222;;;;;203,715;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Delitos contra la seguridad p煤blica;658;;;;;21,543631;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Delitos contra el orden p煤blico;777;;;;;25,439819;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Delitos contra la seguridad de la naci贸n;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Delitos contra los poderes p煤blicos y el orden constitucional;1;;;;;0,032741081;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Delitos contra la administraci贸n p煤blica;3065;;;;;100,35141;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Delitos contra la fe p煤blica;452;;;;;14,798968;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Ley 23,737 (estupefacientes);7140;;;;;233,77132;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Otros delitos previstos en leyes especiales;2084;;;;;68,232414;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Contravenciones;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2015;Suicidios (consumados);166;166;0;0;166;5,8360615;5,8360615;0;0
+Ciudad Aut髇oma de Buenos Aires;2016;Homicidios dolosos;145;146;130;16;0;4,739922;4,7726111;9,0875349;0,98244435
+Ciudad Aut髇oma de Buenos Aires;2016;Homicidios dolosos en grado de tentativa;73;87;62;24;1;2,3863056;2,8439534;4,3340549;1,4736665
+Ciudad Aut髇oma de Buenos Aires;2016;Muertes en accidentes viales;135;138;67;25;46;4,4130311;4,5110984;4,6835756;1,5350692
+Ciudad Aut髇oma de Buenos Aires;2016;Homicidios culposos por otros hechos;12;15;9;5;1;0,3922694;0,49033678;0,62913704;0,30701384
+Ciudad Aut髇oma de Buenos Aires;2016;Lesiones dolosas;18134;20451;10855;9428;168;592,78448;668,52515;758,80914;578,90533
+Ciudad Aut髇oma de Buenos Aires;2016;Lesiones culposas en Accidentes Viales;8999;10712;6625;3732;355;294,16937;350,16583;463,11475;229,15514
+Ciudad Aut髇oma de Buenos Aires;2016;Lesiones culposas por otros hechos;2229;2553;1431;983;139;72,864044;83,455315;100,03278;60,358925
+Ciudad Aut髇oma de Buenos Aires;2016;Otros delitos contra las personas;550;674;464;172;38;17,979015;22,032465;32,435509;10,561276
+Ciudad Aut髇oma de Buenos Aires;2016;Delitos contra el honor;0;0;0;0;0;0;0;0;0
+Ciudad Aut髇oma de Buenos Aires;2016;Abusos sexuales con acceso carnal (violaciones);260;291;34;252;5;8,4991703;9,5125332;2,3767397;15,473498
+Ciudad Aut髇oma de Buenos Aires;2016;Otros delitos contra la integridad sexual;757;900;107;767;26;24,745663;29,420206;7,4797401;47,095924
+Ciudad Aut髇oma de Buenos Aires;2016;Delitos contra el estado civil;4;;;;;0,13075647;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Amenazas;9992;;;;;326,62967;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Otros delitos contra la libertad;2736;2871;369;231;2271;89,437424;93,850456;25,794617;14,18404
+Ciudad Aut髇oma de Buenos Aires;2016;Robos (excluye los agravados por el resultado de lesiones y/o muertes);67497;;;;;2206,4175;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);5005;;;;;163,60904;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Robos agravados por el resultado de lesiones y/o muertes ;128;;;;;4,184207;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Tentativas de robo agravado por el resultado de lesiones y/o muertes;19;;;;;0,62109321;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Hurtos;44175;;;;;1444,0417;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Tentativas de hurto;467;;;;;15,265818;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Otros delitos contra la propiedad;7446;;;;;243,40317;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Delitos contra la seguridad p煤blica;692;;;;;22,620871;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Delitos contra el orden p煤blico;1058;;;;;34,585087;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Delitos contra la seguridad de la naci贸n;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Delitos contra los poderes p煤blicos y el orden constitucional;1;;;;;0,032689117;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Delitos contra la administraci贸n p煤blica;3233;;;;;105,68392;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Delitos contra la fe p煤blica;552;;;;;18,044394;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Ley 23,737 (estupefacientes);7455;;;;;243,69737;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Otros delitos previstos en leyes especiales;3744;;;;;122,38806;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Contravenciones;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2016;Suicidios (consumados);175;176;23;15;138;6,1404629;6,1755514;1,7386453;0,98226744
+Ciudad Aut髇oma de Buenos Aires;2016;Delitos contra el orden econ贸mico y financiero;1;;;;;0,032689117;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Homicidios dolosos;135;143;112;31;0;4,4063964;4,6675162;7,8085618;1,902535
+Ciudad Aut髇oma de Buenos Aires;2017;Homicidios dolosos en grado de tentativa;58;73;43;21;9;1,8931185;2,3827181;2,99793;1,2888141
+Ciudad Aut髇oma de Buenos Aires;2017;Muertes en accidentes viales;131;140;103;37;0;4,2758365;4,5695963;7,1810884;2,2707675
+Ciudad Aut髇oma de Buenos Aires;2017;Homicidios culposos por otros hechos;20;22;14;4;4;0,65279949;0,71807939;0,97607023;0,24548839
+Ciudad Aut髇oma de Buenos Aires;2017;Lesiones dolosas;15972;27603;13540;13458;605;521,32562;900,96118;943,99939;825,94568
+Ciudad Aut髇oma de Buenos Aires;2017;Lesiones culposas en Accidentes Viales;9851;11404;7444;3922;38;321,53638;372,22626;518,99048;240,70135
+Ciudad Aut髇oma de Buenos Aires;2017;Lesiones culposas por otros hechos;2400;2638;1293;918;427;78,335938;86,104248;90,147057;56,339584
+Ciudad Aut髇oma de Buenos Aires;2017;Otros delitos contra las personas;666;786;389;118;279;21,738222;25,65502;27,12081;7,2419071
+Ciudad Aut髇oma de Buenos Aires;2017;Delitos contra el honor;2;2;0;0;2;0,065279946;0,065279946;0;0
+Ciudad Aut髇oma de Buenos Aires;2017;Abusos sexuales con acceso carnal (violaciones);146;161;17;134;10;4,7654362;5,2550359;1,1852281;8,2238607
+Ciudad Aut髇oma de Buenos Aires;2017;Otros delitos contra la integridad sexual;1393;1603;208;1281;114;45,467484;52,321877;14,501616;78,617653
+Ciudad Aut髇oma de Buenos Aires;2017;Delitos contra el estado civil;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Amenazas;10397;;;;;339,35779;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Otros delitos contra la libertad;1952;2409;1364;843;202;63,713226;78,629692;95,09713;51,736675
+Ciudad Aut髇oma de Buenos Aires;2017;Trata de personas simple;52;71;11;27;33;1,6972786;2,3174381;0,76691234;1,6570466
+Ciudad Aut髇oma de Buenos Aires;2017;Trata de personas agravado;1;5;0;5;0;0,032639973;0,16319987;0;0,30686048
+Ciudad Aut髇oma de Buenos Aires;2017;Otros delitos contra la libertad n,c,p;1899;2333;1353;811;169;61,983311;76,149055;94,330215;49,77277
+Ciudad Aut髇oma de Buenos Aires;2017;Robos (excluye los agravados por el resultado de lesiones y/o muertes);68219;;;;;2226,6663;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);5008;;;;;163,46098;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Robos agravados por el resultado de lesiones y/o muertes ;78;;;;;2,545918;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Tentativas de robo agravado por el resultado de lesiones y/o muertes;25;;;;;0,81599933;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Hurtos;42150;;;;;1375,7749;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Tentativas de hurto;465;;;;;15,177588;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Otros delitos contra la propiedad;7949;;;;;259,45514;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Delitos contra la seguridad p煤blica;918;;;;;29,963495;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Fabricaci贸n adquisici贸n transferencia y tenencia de explosivos y otros materiales peligrosos;33;;;;;1,0771191;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Tenencia ilegal de armas de fuego;166;;;;;5,4182358;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Portaci贸n ilegal de armas de fuego;15;;;;;0,48959959;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Acopio y fabricaci贸n ilegal de armas piezas y municiones;3;;;;;0,097919919;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Entrega y comercializaci贸n ilegal de armas de fuego;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Omisi贸n adulteraci贸n y supresi贸n de marcaje;1;;;;;0,032639973;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Otros delitos contra la seguridad p煤blica;700;;;;;22,84798;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Delitos contra el orden p煤blico;1628;;;;;53,137875;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Delitos contra la seguridad de la naci贸n;2;;;;;0,065279946;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Delitos contra los poderes p煤blicos y el orden constitucional;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Delitos contra la administraci贸n p煤blica;3508;;;;;114,50103;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Delitos contra la fe p煤blica;435;;;;;14,198388;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Ley 23,737 (estupefacientes);7740;;;;;252,63339;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Siembra y producci贸n de estupefacientes;23;;;;;0,75071937;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Otros delitos previstos en la Ley 23,737;2079;;;;;67,858505;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Comercializaci贸n y entrega de estupefacientes;860;;;;;28,070377;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Tenencia o entrega atenuada de estupefacientes;14;;;;;0,45695964;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Desv铆o de Importaci贸n de estupefacientes;4;;;;;0,13055989;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Organizaci贸n y financiaci贸n de estupefacientes;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Tenencia simple de estupefacientes;3499;;;;;114,20727;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Tenencia simple atenuada para uso personal de estupefacientes;1214;;;;;39,624928;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Confabulaci贸n de estupefacientes;2;;;;;0,065279946;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Contrabando de estupefacientes;45;;;;;1,4687988;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Otros delitos previstos en leyes especiales;3718;;;;;121,35542;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Ley de residuos peligrosos;2;;;;;0,065279946;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Ley de fauna;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Delitos migratorios;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Obstrucci贸n del c贸digo aduanero;3;;;;;0,097919919;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Contrabando simple;26;;;;;0,84863931;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Contrabando agravado;3;;;;;0,097919919;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Contrabando de elementos nucleares agresivos qu铆micos armas y municiones;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Otros delitos previstos en leyes especiales n,c,p;3684;;;;;120,24566;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Contravenciones;55;;;;;1,7951986;;;
+Ciudad Aut髇oma de Buenos Aires;2017;Suicidios (consumados);176;176;111;64;1;6,1634707;6,1634707;8,3637114;4,1874623
+Ciudad Aut髇oma de Buenos Aires;2017;Delitos contra el orden econ贸mico y financiero;74;;;;;2,4153581;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Homicidios dolosos;133;137;117;20;0;4,335011;4,4653873;8,1366625;1,2269133
+Ciudad Aut髇oma de Buenos Aires;2018;Homicidios dolosos en grado de tentativa;30;33;17;7;9;0,97782201;1,0756042;1,1822501;0,42941967
+Ciudad Aut髇oma de Buenos Aires;2018;Muertes en accidentes viales;143;149;110;39;0;4,6609516;4,8565159;7,6498537;2,3924811
+Ciudad Aut髇oma de Buenos Aires;2018;Homicidios culposos por otros hechos;23;24;12;8;4;0,74966353;0,78225762;0,83452952;0,49076533
+Ciudad Aut髇oma de Buenos Aires;2018;Lesiones dolosas;15103;15140;6057;5923;3160;492,26819;493,47418;421,22876;363,35037
+Ciudad Aut髇oma de Buenos Aires;2018;Lesiones culposas en Accidentes Viales;10061;11750;6623;3716;1411;327,92892;382,98029;460,59073;227,96049
+Ciudad Aut髇oma de Buenos Aires;2018;Lesiones culposas por otros hechos;1926;1999;921;603;475;62,776173;65,15554;64,05014;36,991436
+Ciudad Aut髇oma de Buenos Aires;2018;Otros delitos contra las personas;783;841;316;284;241;25,521154;27,41161;21,975943;17,422169
+Ciudad Aut髇oma de Buenos Aires;2018;Delitos contra el honor;31;32;16;3;13;1,010416;1,0430101;1,1127059;0,184037
+Ciudad Aut髇oma de Buenos Aires;2018;Abusos sexuales con acceso carnal (violaciones);176;184;35;147;2;5,7365561;5,9973083;2,4340444;9,0178127
+Ciudad Aut髇oma de Buenos Aires;2018;Otros delitos contra la integridad sexual;1783;1836;257;1093;486;58,115223;59,842709;17,872841;67,050812
+Ciudad Aut髇oma de Buenos Aires;2018;Delitos contra el estado civil;5;;;;;0,16297033;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Amenazas;10609;;;;;345,79047;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Otros delitos contra la libertad;1724;2061;995;757;309;56,192173;67,176376;69,196404;46,438671
+Ciudad Aut髇oma de Buenos Aires;2018;Trata de personas simple;15;15;2;3;10;0,488911;0,488911;0,13908824;0,184037
+Ciudad Aut髇oma de Buenos Aires;2018;Trata de personas agravado;4;4;0;1;3;0,13037626;0,13037626;0;0,061345667
+Ciudad Aut髇oma de Buenos Aires;2018;Otros delitos contra la libertad n,c,p;1705;2042;993;753;296;55,572884;66,557083;69,057312;46,193287
+Ciudad Aut髇oma de Buenos Aires;2018;Robos (excluye los agravados por el resultado de lesiones y/o muertes);70916;;;;;2311,4409;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);4598;;;;;149,86752;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Robos agravados por el resultado de lesiones y/o muertes ;205;;;;;6,6817837;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Tentativas de robo agravado por el resultado de lesiones y/o muertes;13;;;;;0,42372286;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Hurtos;42274;;;;;1377,8816;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Tentativas de hurto;387;;;;;12,613904;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Otros delitos contra la propiedad;11312;;;;;368,7041;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Delitos contra la seguridad p煤blica;1089;;;;;35,494938;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Fabricaci贸n adquisici贸n transferencia y tenencia de explosivos y otros materiales peligrosos;9;;;;;0,29334661;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Tenencia ilegal de armas de fuego;198;;;;;6,4536252;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Portaci贸n ilegal de armas de fuego;4;;;;;0,13037626;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Acopio y fabricaci贸n ilegal de armas piezas y municiones;1;;;;;0,032594066;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Entrega y comercializaci贸n ilegal de armas de fuego;1;;;;;0,032594066;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Omisi贸n adulteraci贸n y supresi贸n de marcaje;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Otros delitos contra la seguridad p煤blica;876;;;;;28,552402;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Delitos contra el orden p煤blico;897;;;;;29,236877;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Delitos contra la seguridad de la naci贸n;16;;;;;0,52150506;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Delitos contra los poderes p煤blicos y el orden constitucional;4;;;;;0,13037626;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Delitos contra la administraci贸n p煤blica;3680;;;;;119,94617;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Delitos contra la fe p煤blica;646;;;;;21,055767;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Ley 23,737 (estupefacientes);11623;;;;;378,84085;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Siembra y producci贸n de estupefacientes;25;;;;;0,8148517;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Otros delitos previstos en la Ley 23,737;5719;;;;;186,40547;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Comercializaci贸n y entrega de estupefacientes;2129;;;;;69,392769;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Tenencia o entrega atenuada de estupefacientes;191;;;;;6,2254667;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Desv铆o de Importaci贸n de estupefacientes;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Organizaci贸n y financiaci贸n de estupefacientes;29;;;;;0,94522798;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Tenencia simple de estupefacientes;2175;;;;;70,892097;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Tenencia simple atenuada para uso personal de estupefacientes;1171;;;;;38,167652;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Confabulaci贸n de estupefacientes;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Contrabando de estupefacientes;184;;;;;5,9973083;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Otros delitos previstos en leyes especiales;4227;;;;;137,77512;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Ley de residuos peligrosos;6;;;;;0,1955644;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Ley de fauna;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Delitos migratorios;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Obstrucci贸n del c贸digo aduanero;29;;;;;0,94522798;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Contrabando simple;91;;;;;2,9660602;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Contrabando agravado;2;;;;;0,065188132;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Contrabando de elementos nucleares agresivos qu铆micos armas y municiones;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Otros delitos previstos en leyes especiales n,c,p;4099;;;;;133,60309;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Contravenciones;14;;;;;0,45631695;;;
+Ciudad Aut髇oma de Buenos Aires;2018;Suicidios (consumados);237;238;154;83;1;8,2836552;8,3186064;11,566833;5,4260316
+Ciudad Aut髇oma de Buenos Aires;2018;Delitos contra el orden econ贸mico y financiero;3;;;;;0,097782202;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Homicidios dolosos;96;102;84;18;0;3,1249704;3,3202813;5,8278699;1,1038346
+Ciudad Aut髇oma de Buenos Aires;2019;Homicidios dolosos en grado de tentativa;64;84;61;22;1;2,0833137;2,7343493;4,2321434;1,3491312
+Ciudad Aut髇oma de Buenos Aires;2019;Muertes en accidentes viales;102;103;77;26;0;3,3202813;3,352833;5,3422141;1,5944278
+Ciudad Aut髇oma de Buenos Aires;2019;Homicidios culposos por otros hechos;25;33;19;10;4;0,81379437;1,0742086;1,3182086;0,61324149
+Ciudad Aut髇oma de Buenos Aires;2019;Lesiones dolosas;15432;17824;7664;7843;2317;502,33902;580,20288;531,72375;480,9653
+Ciudad Aut髇oma de Buenos Aires;2019;Lesiones culposas en Accidentes Viales;10234;11992;7127;3635;1230;333,13489;390,3609;494,46698;222,91328
+Ciudad Aut髇oma de Buenos Aires;2019;Lesiones culposas por otros hechos;668;846;324;319;203;21,744587;27,538803;22,478926;19,562403
+Ciudad Aut髇oma de Buenos Aires;2019;Otros delitos contra las personas;639;823;385;387;51;20,800585;26,790112;26,711069;23,732445
+Ciudad Aut髇oma de Buenos Aires;2019;Delitos contra el honor;38;38;24;12;2;1,2369674;1,2369674;1,6651056;0,73588979
+Ciudad Aut髇oma de Buenos Aires;2019;Abusos sexuales con acceso carnal (violaciones);404;426;40;364;22;13,150917;13,867057;2,775176;22,321989
+Ciudad Aut髇oma de Buenos Aires;2019;Otros delitos contra la integridad sexual;2246;2443;349;1911;183;73,11129;79,523987;24,213411;117,19044
+Ciudad Aut髇oma de Buenos Aires;2019;Delitos contra el estado civil;12;;;;;0,3906213;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Amenazas;11933;;;;;388,44034;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Otros delitos contra la libertad;1878;2437;1097;1126;214;61,132236;79,328682;76,1092;69,050987
+Ciudad Aut髇oma de Buenos Aires;2019;Trata de personas simple;24;33;0;19;14;0,78124261;1,0742086;0;1,1651587
+Ciudad Aut髇oma de Buenos Aires;2019;Trata de personas agravado;7;7;0;4;3;0,22786243;0,22786243;0;0,2452966
+Ciudad Aut髇oma de Buenos Aires;2019;Otros delitos contra la libertad n,c,p;1847;2397;1097;1103;197;60,123131;78,026604;76,1092;67,640533
+Ciudad Aut髇oma de Buenos Aires;2019;Robos (excluye los agravados por el resultado de lesiones y/o muertes);62791;;;;;2043,9586;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);3970;;;;;129,23055;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Robos agravados por el resultado de lesiones y/o muertes ;554;;;;;18,033684;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Tentativas de robo agravado por el resultado de lesiones y/o muertes;100;;;;;3,2551775;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Hurtos;50247;;;;;1635,6292;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Tentativas de hurto;1585;;;;;51,594566;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Otros delitos contra la propiedad;15297;;;;;497,94452;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Delitos contra la seguridad p煤blica;1131;;;;;36,816059;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Fabricaci贸n adquisici贸n transferencia y tenencia de explosivos y otros materiales peligrosos;10;;;;;0,32551777;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Tenencia ilegal de armas de fuego;227;;;;;7,3892531;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Portaci贸n ilegal de armas de fuego;4;;;;;0,13020711;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Acopio y fabricaci贸n ilegal de armas piezas y municiones;1;;;;;0,032551777;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Entrega y comercializaci贸n ilegal de armas de fuego;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Omisi贸n adulteraci贸n y supresi贸n de marcaje;2;;;;;0,065103553;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Otros delitos contra la seguridad p煤blica;887;;;;;28,873425;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Delitos contra el orden p煤blico;701;;;;;22,818794;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Delitos contra la seguridad de la naci贸n;8;;;;;0,26041421;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Delitos contra los poderes p煤blicos y el orden constitucional;3;;;;;0,097655326;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Delitos contra la administraci贸n p煤blica;4764;;;;;155,07666;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Delitos contra la fe p煤blica;1788;;;;;58,202576;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Ley 23,737 (estupefacientes);28150;;;;;916,33252;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Siembra y producci贸n de estupefacientes;196;;;;;6,3801479;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Otros delitos previstos en la Ley 23,737;10998;;;;;358,00443;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Comercializaci贸n y entrega de estupefacientes;1951;;;;;63,508514;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Tenencia o entrega atenuada de estupefacientes;565;;;;;18,391754;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Desv铆o de Importaci贸n de estupefacientes;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Organizaci贸n y financiaci贸n de estupefacientes;3;;;;;0,097655326;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Tenencia simple de estupefacientes;4517;;;;;147,03638;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Tenencia simple atenuada para uso personal de estupefacientes;9907;;;;;322,49045;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Confabulaci贸n de estupefacientes;1;;;;;0,032551777;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Contrabando de estupefacientes;12;;;;;0,3906213;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Otros delitos previstos en leyes especiales;6297;;;;;204,97853;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Ley de residuos peligrosos;61;;;;;1,9856583;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Ley de fauna;7;;;;;0,22786243;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Delitos migratorios;5;;;;;0,16275889;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Obstrucci贸n del c贸digo aduanero;8;;;;;0,26041421;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Contrabando simple;136;;;;;4,4270415;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Contrabando agravado;28;;;;;0,91144973;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Contrabando de elementos nucleares agresivos qu铆micos armas y municiones;1;;;;;0,032551777;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Otros delitos previstos en leyes especiales n,c,p;6051;;;;;196,97079;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Contravenciones;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2019;Suicidios (consumados);230;230;161;68;1;8,0238791;8,0238791;12,055175;4,4417796
+Ciudad Aut髇oma de Buenos Aires;2019;Delitos contra el orden econ贸mico y financiero;24;;;;;0,78124261;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Homicidios dolosos;120;125;111;14;0;3,9016194;4,064187;7,6840806;0,85831594
+Ciudad Aut髇oma de Buenos Aires;2020;Homicidios dolosos en grado de tentativa;75;93;59;23;11;2,4385121;3,0237551;4,084331;1,4100904
+Ciudad Aut髇oma de Buenos Aires;2020;Muertes en accidentes viales;79;82;66;16;0;2,5685661;2,6661065;4,5689125;0,98093253
+Ciudad Aut髇oma de Buenos Aires;2020;Homicidios culposos por otros hechos;16;16;12;4;0;0,52021593;0,52021593;0,83071142;0,24523313
+Ciudad Aut髇oma de Buenos Aires;2020;Lesiones dolosas;10630;11869;5158;5777;934;345,61844;385,90268;357,06744;354,17795
+Ciudad Aut髇oma de Buenos Aires;2020;Lesiones culposas en Accidentes Viales;6457;8381;5234;2255;892;209,93964;272,49561;362,32861;138,25018
+Ciudad Aut髇oma de Buenos Aires;2020;Lesiones culposas por otros hechos;220;250;109;122;19;7,1529689;8,1283741;7,5456285;7,4796104
+Ciudad Aut髇oma de Buenos Aires;2020;Otros delitos contra las personas;371;434;196;177;61;12,062507;14,110857;13,568286;10,851566
+Ciudad Aut髇oma de Buenos Aires;2020;Delitos contra el honor;17;18;14;3;1;0,55272943;0,58524293;0,9691633;0,18392484
+Ciudad Aut髇oma de Buenos Aires;2020;Abusos sexuales con acceso carnal (violaciones);249;258;21;232;5;8,0958605;8,3884821;1,453745;14,223521
+Ciudad Aut髇oma de Buenos Aires;2020;Otros delitos contra la integridad sexual;1438;1600;229;1243;128;46,754406;52,021591;15,852742;76,206192
+Ciudad Aut髇oma de Buenos Aires;2020;Delitos contra el estado civil;2;;;;;0,065026991;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Amenazas;9011;;;;;292,9791;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Otros delitos contra la libertad;1238;1621;620;738;263;40,251705;52,704376;42,92009;45,245514
+Ciudad Aut髇oma de Buenos Aires;2020;Trata de personas simple;102;138;9;49;80;3,3163764;4,4868622;0,62303352;3,0041058
+Ciudad Aut髇oma de Buenos Aires;2020;Trata de personas agravado;3;3;1;1;1;0,097540483;0,097540483;0,069225952;0,061308283
+Ciudad Aut髇oma de Buenos Aires;2020;Otros delitos contra la libertad n,c,p;1133;1480;610;688;182;36,837788;48,119972;42,227829;42,180099
+Ciudad Aut髇oma de Buenos Aires;2020;Robos (excluye los agravados por el resultado de lesiones y/o muertes);33671;;;;;1094,7618;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);4983;;;;;162,01474;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Robos agravados por el resultado de lesiones y/o muertes ;1089;;;;;35,407196;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Tentativas de robo agravado por el resultado de lesiones y/o muertes;435;;;;;14,143371;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Hurtos;25950;;;;;843,72516;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Tentativas de hurto;1843;;;;;59,922371;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Otros delitos contra la propiedad;10471;;;;;340,44879;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Delitos contra la seguridad p煤blica;11995;;;;;389,99936;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Fabricaci贸n adquisici贸n transferencia y tenencia de explosivos y otros materiales peligrosos;9;;;;;0,29262146;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Tenencia ilegal de armas de fuego;196;;;;;6,3726449;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Portaci贸n ilegal de armas de fuego;6;;;;;0,19508097;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Acopio y fabricaci贸n ilegal de armas piezas y municiones;3;;;;;0,097540483;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Entrega y comercializaci贸n ilegal de armas de fuego;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Omisi贸n adulteraci贸n y supresi贸n de marcaje;2;;;;;0,065026991;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Otros delitos contra la seguridad p煤blica;11779;;;;;382,97644;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Delitos contra el orden p煤blico;132;;;;;4,2917814;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Delitos contra la seguridad de la naci贸n;1;;;;;0,032513496;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Delitos contra los poderes p煤blicos y el orden constitucional;1;;;;;0,032513496;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Delitos contra la administraci贸n p煤blica;5804;;;;;188,70833;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Delitos contra la fe p煤blica;1159;;;;;37,68314;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Ley 23,737 (estupefacientes);12602;;;;;409,73505;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Siembra y producci贸n de estupefacientes;50;;;;;1,6256747;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Otros delitos previstos en la Ley 23,737;2158;;;;;70,164124;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Comercializaci贸n y entrega de estupefacientes;1048;;;;;34,074142;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Tenencia o entrega atenuada de estupefacientes;116;;;;;3,7715654;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Desv铆o de Importaci贸n de estupefacientes;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Organizaci贸n y financiaci贸n de estupefacientes;2;;;;;0,065026991;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Tenencia simple de estupefacientes;2609;;;;;84,827705;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Tenencia simple atenuada para uso personal de estupefacientes;6618;;;;;215,1743;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Confabulaci贸n de estupefacientes;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Contrabando de estupefacientes;1;;;;;0,032513496;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Otros delitos previstos en leyes especiales;3059;;;;;99,458778;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Ley de residuos peligrosos;3;;;;;0,097540483;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Ley de fauna;2;;;;;0,065026991;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Delitos migratorios;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Obstrucci贸n del c贸digo aduanero;5;;;;;0,16256747;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Contrabando simple;59;;;;;1,9182962;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Contrabando agravado;1;;;;;0,032513496;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Contrabando de elementos nucleares agresivos qu铆micos armas y municiones;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Otros delitos previstos en leyes especiales n,c,p;2989;;;;;97,182838;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Contravenciones;3;;;;;0,097540483;;;
+Ciudad Aut髇oma de Buenos Aires;2020;Suicidios (consumados);206;206;144;62;0;7,1736035;7,1736035;10,750039;4,0467095
+Ciudad Aut髇oma de Buenos Aires;2020;Delitos contra el orden econ贸mico y financiero;56;;;;;1,8207557;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Homicidios dolosos;99;103;83;20;0;3,2155008;3,3454201;5,7340441;1,2259853
+Ciudad Aut髇oma de Buenos Aires;2021;Homicidios dolosos en grado de tentativa;79;93;67;21;5;2,5659049;3,020622;4,628686;1,2872845
+Ciudad Aut髇oma de Buenos Aires;2021;Muertes en accidentes viales;97;97;75;22;0;3,1505413;3,1505413;5,181365;1,3485838
+Ciudad Aut髇oma de Buenos Aires;2021;Homicidios culposos por otros hechos;25;25;18;7;0;0,81199521;0,81199521;1,2435277;0,42909485
+Ciudad Aut髇oma de Buenos Aires;2021;Lesiones dolosas;11530;12705;5408;6540;757;374,49219;412,65594;373,61096;400,89719
+Ciudad Aut髇oma de Buenos Aires;2021;Lesiones culposas en Accidentes Viales;7759;8994;5490;2732;772;252,01082;292,12338;379,27591;167,46959
+Ciudad Aut髇oma de Buenos Aires;2021;Lesiones culposas por otros hechos;1025;1190;583;374;233;33,291801;38,65097;40,276478;22,925924
+Ciudad Aut髇oma de Buenos Aires;2021;Otros delitos contra las personas;545;612;219;194;199;17,701494;19,877642;15,129586;11,892056
+Ciudad Aut髇oma de Buenos Aires;2021;Delitos contra el honor;23;23;14;4;5;0,74703556;0,74703556;0,96718812;0,24519704
+Ciudad Aut髇oma de Buenos Aires;2021;Abusos sexuales con acceso carnal (violaciones);319;334;34;294;6;10,361058;10,848256;2,3488855;18,021982
+Ciudad Aut髇oma de Buenos Aires;2021;Otros delitos contra la integridad sexual;1853;1978;197;1476;305;60,185081;64,245056;13,609719;90,477715
+Ciudad Aut髇oma de Buenos Aires;2021;Delitos contra el estado civil;3;;;;;0,097439423;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Amenazas;11111;;;;;360,88315;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Otros delitos contra la libertad;1898;2333;658;895;780;61,646675;75,775391;45,457844;54,862839
+Ciudad Aut髇oma de Buenos Aires;2021;Trata de personas simple;72;92;0;33;59;2,338546;2,9881423;0;2,0228755
+Ciudad Aut髇oma de Buenos Aires;2021;Trata de personas agravado;5;7;4;0;3;0,16239904;0,22735865;0,27633947;0
+Ciudad Aut髇oma de Buenos Aires;2021;Otros delitos contra la libertad n,c,p;1821;2234;654;862;718;59,145729;72,559891;45,181503;52,839966
+Ciudad Aut髇oma de Buenos Aires;2021;Robos (excluye los agravados por el resultado de lesiones y/o muertes);43810;;;;;1422,9403;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);5380;;;;;174,74136;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Robos agravados por el resultado de lesiones y/o muertes ;1275;;;;;41,411755;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Tentativas de robo agravado por el resultado de lesiones y/o muertes;415;;;;;13,47912;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Hurtos;36718;;;;;1192,5935;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Tentativas de hurto;2130;;;;;69,181992;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Otros delitos contra la propiedad;22232;;;;;722,09106;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Delitos contra la seguridad p煤blica;5632;;;;;182,92627;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Fabricaci贸n adquisici贸n transferencia y tenencia de explosivos y otros materiales peligrosos;12;;;;;0,38975769;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Tenencia ilegal de armas de fuego;195;;;;;6,3335624;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Portaci贸n ilegal de armas de fuego;4;;;;;0,12991923;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Acopio y fabricaci贸n ilegal de armas piezas y municiones;1;;;;;0,032479808;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Entrega y comercializaci贸n ilegal de armas de fuego;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Omisi贸n adulteraci贸n y supresi贸n de marcaje;4;;;;;0,12991923;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Otros delitos contra la seguridad p煤blica;5416;;;;;175,91063;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Delitos contra el orden p煤blico;158;;;;;5,1318097;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Delitos contra la seguridad de la naci贸n;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Delitos contra los poderes p煤blicos y el orden constitucional;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Delitos contra la administraci贸n p煤blica;7557;;;;;245,44991;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Delitos contra la fe p煤blica;1677;;;;;54,468636;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Ley 23,737 (estupefacientes);13854;;;;;449,97525;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Siembra y producci贸n de estupefacientes;58;;;;;1,8838289;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Otros delitos previstos en la Ley 23,737;768;;;;;24,944492;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Comercializaci贸n y entrega de estupefacientes;1328;;;;;43,133183;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Tenencia o entrega atenuada de estupefacientes;96;;;;;3,1180615;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Desv铆o de Importaci贸n de estupefacientes;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Organizaci贸n y financiaci贸n de estupefacientes;2;;;;;0,064959615;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Tenencia simple de estupefacientes;980;;;;;31,830212;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Tenencia simple atenuada para uso personal de estupefacientes;10612;;;;;344,67572;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Confabulaci贸n de estupefacientes;4;;;;;0,12991923;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Contrabando de estupefacientes;6;;;;;0,19487885;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Otros delitos previstos en leyes especiales;3936;;;;;127,84052;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Ley de residuos peligrosos;10;;;;;0,32479808;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Ley de fauna;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Delitos migratorios;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Obstrucci贸n del c贸digo aduanero;12;;;;;0,38975769;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Contrabando simple;67;;;;;2,176147;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Contrabando agravado;4;;;;;0,12991923;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Contrabando de elementos nucleares agresivos qu铆micos armas y municiones;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Otros delitos previstos en leyes especiales n,c,p;3843;;;;;124,8199;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Contravenciones;1;;;;;0,032479808;;;
+Ciudad Aut髇oma de Buenos Aires;2021;Suicidios (consumados);236;236;176;60;0;8,2042437;8,2042437;13,101389;3,9134068
+Ciudad Aut髇oma de Buenos Aires;2021;Delitos contra el orden econ贸mico y financiero;53;;;;;1,7214298;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Homicidios dolosos;87;89;76;13;0;2,8232546;2,8881569;5,2407322;0,79687577
+Ciudad Aut髇oma de Buenos Aires;2022;Homicidios dolosos en grado de tentativa;102;115;95;20;0;3,3100226;3,7318881;6,5509152;1,2259628
+Ciudad Aut髇oma de Buenos Aires;2022;Muertes en accidentes viales;107;111;92;19;0;3,4722786;3,6020834;6,3440442;1,1646646
+Ciudad Aut髇oma de Buenos Aires;2022;Homicidios culposos por otros hechos;72;72;48;24;0;2,3364866;2,3364866;3,3099363;1,4711553
+Ciudad Aut髇oma de Buenos Aires;2022;Lesiones dolosas;10204;11023;3648;3907;3468;331,13205;357,70959;251,55515;239,49182
+Ciudad Aut髇oma de Buenos Aires;2022;Lesiones culposas en Accidentes Viales;10080;11711;6327;3780;1604;327,10812;380,03601;436,29095;231,70695
+Ciudad Aut髇oma de Buenos Aires;2022;Lesiones culposas por otros hechos;301;318;80;38;200;9,7678118;10,319482;5,5165606;2,3293293
+Ciudad Aut髇oma de Buenos Aires;2022;Otros delitos contra las personas;530;583;172;159;252;17,199137;18,91905;11,860605;9,7464037
+Ciudad Aut髇oma de Buenos Aires;2022;Delitos contra el honor;40;41;6;5;30;1,298048;1,3304993;0,41374204;0,30649069
+Ciudad Aut髇oma de Buenos Aires;2022;Abusos sexuales con acceso carnal (violaciones);320;350;36;300;14;10,384384;11,357921;2,4824522;18,389441
+Ciudad Aut髇oma de Buenos Aires;2022;Otros delitos contra la integridad sexual;1834;1979;196;1390;393;59,515503;64,220924;13,515573;85,204407
+Ciudad Aut髇oma de Buenos Aires;2022;Delitos contra el estado civil;1;;;;;0,032451201;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Amenazas;9899;;;;;321,23444;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Otros delitos contra la libertad;1801;2228;672;694;862;58,444614;72,301277;46,339108;42,540905
+Ciudad Aut髇oma de Buenos Aires;2022;Trata de personas simple;136;181;26;40;115;4,4133635;5,8736672;1,7928821;2,4519255
+Ciudad Aut髇oma de Buenos Aires;2022;Trata de personas agravado;11;11;1;1;9;0,35696322;0,35696322;0,068957001;0,061298136
+Ciudad Aut髇oma de Buenos Aires;2022;Otros delitos contra la libertad n,c,p;1654;2036;645;653;738;53,674286;66,070648;44,477268;40,027683
+Ciudad Aut髇oma de Buenos Aires;2022;Robos (excluye los agravados por el resultado de lesiones y/o muertes);55163;;;;;1790,1056;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);6089;;;;;197,59537;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Robos agravados por el resultado de lesiones y/o muertes ;1446;;;;;46,924438;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Tentativas de robo agravado por el resultado de lesiones y/o muertes;337;;;;;10,936055;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Hurtos;54967;;;;;1783,7452;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Tentativas de hurto;2665;;;;;86,482452;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Otros delitos contra la propiedad;28760;;;;;933,29657;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Delitos contra la seguridad p煤blica;683;;;;;22,164171;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Fabricaci贸n adquisici贸n transferencia y tenencia de explosivos y otros materiales peligrosos;1;;;;;0,032451201;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Tenencia ilegal de armas de fuego;85;;;;;2,758352;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Portaci贸n ilegal de armas de fuego;6;;;;;0,19470721;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Acopio y fabricaci贸n ilegal de armas piezas y municiones;10;;;;;0,324512;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Entrega y comercializaci贸n ilegal de armas de fuego;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Omisi贸n adulteraci贸n y supresi贸n de marcaje;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Otros delitos contra la seguridad p煤blica;581;;;;;18,854149;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Delitos contra el orden p煤blico;127;;;;;4,1213026;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Delitos contra la seguridad de la naci贸n;2;;;;;0,064902402;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Delitos contra los poderes p煤blicos y el orden constitucional;2;;;;;0,064902402;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Delitos contra la administraci贸n p煤blica;1916;;;;;62,176502;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Delitos contra la fe p煤blica;629;;;;;20,411806;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Ley 23,737 (estupefacientes);7759;;;;;251,78888;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Siembra y producci贸n de estupefacientes;39;;;;;1,2655969;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Otros delitos previstos en la Ley 23,737;252;;;;;8,1777029;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Comercializaci贸n y entrega de estupefacientes;1763;;;;;57,211468;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Tenencia o entrega atenuada de estupefacientes;96;;;;;3,1153154;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Desv铆o de Importaci贸n de estupefacientes;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Organizaci贸n y financiaci贸n de estupefacientes;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Tenencia simple de estupefacientes;715;;;;;23,20261;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Tenencia simple atenuada para uso personal de estupefacientes;4872;;;;;158,10225;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Confabulaci贸n de estupefacientes;5;;;;;0,162256;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Contrabando de estupefacientes;17;;;;;0,55167043;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Otros delitos previstos en leyes especiales;2794;;;;;90,668655;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Ley de residuos peligrosos;30;;;;;0,97353607;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Ley de fauna;0;;;;;0;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Delitos migratorios;1;;;;;0,032451201;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Obstrucci贸n del c贸digo aduanero;1;;;;;0,032451201;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Contrabando simple;41;;;;;1,3304993;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Contrabando agravado;2;;;;;0,064902402;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Contrabando de elementos nucleares agresivos qu铆micos armas y municiones;2;;;;;0,064902402;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Otros delitos previstos en leyes especiales n,c,p;2717;;;;;88,169914;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Contravenciones;4;;;;;0,1298048;;;
+Ciudad Aut髇oma de Buenos Aires;2022;Suicidios (consumados);242;242;171;71;0;8,3994761;8,3994761;12,694812;4,6280451
+Ciudad Aut髇oma de Buenos Aires;2022;Delitos contra el orden econ贸mico y financiero;44;;;;;1,4278529;;;
